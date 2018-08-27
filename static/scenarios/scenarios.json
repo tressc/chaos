@@ -1,0 +1,58 @@
+{
+  "night_of_the_zealot": {
+    "rules": {
+      "scenario1": {
+        "name": "The Gathering",
+        "skull": "",
+        "hood": "",
+        "rocks": "",
+      }
+    },
+    "difficulty": {
+      "easy": {
+        "skull": 2,
+        "hood": 1,
+        "rocks": 1,
+        "tentacle": 1,
+        "star": 1,
+        "+1": 2,
+        "0": 3,
+        "-1": 3,
+        "-2": 2,
+      },
+      "standard": {
+        "skull": 2,
+        "hood": 1,
+        "rocks": 1,
+        "tentacle": 1,
+        "star": 1,
+        "+1": 1,
+        "0": 2,
+        "-1": 3,
+        "-2": 2,
+        "-3": 1,
+        "-4": 1
+      },
+      "hard": {
+        "skull": 2,
+        "hood": 1,
+        "rocks": 1,
+        "tentacle": 1,
+        "star": 1,
+        "+1": 1,
+        "0": 2,
+        "-1": 3,
+        "-2": 2,
+        "-3": 1,
+        "-4": 1
+      }
+    },
+  },
+  "the_dunwich_legacy": {
+    "difficulty": {
+      "easy": {
+
+      }
+    }
+  }
+}
