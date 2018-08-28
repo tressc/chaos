@@ -1,8 +1,21 @@
 {
-  "night_of_the_zealot": {
+  "0": {
+    "name": "Night of the Zealot",
     "rules": {
-      "scenario1": {
+      "0": {
         "name": "The Gathering",
+        "skull": "",
+        "hood": "",
+        "rocks": "",
+      },
+      "1": {
+        "name": "The Midnight Masks",
+        "skull": "",
+        "hood": "",
+        "rocks": "",
+      },
+      "2": {
+        "name": "The Devourer Below",
         "skull": "",
         "hood": "",
         "rocks": "",
@@ -48,7 +61,20 @@
       }
     },
   },
-  "the_dunwich_legacy": {
+  "1": {
+    "name": "The Dunwich Legacy",
+    "rules": {
+      "0": {
+        "name": "",
+      },
+      "1": {
+        "name": "",
+      },
+      "2": {
+        "name": "",
+      },
+
+    },
     "difficulty": {
       "easy": {
 
