@@ -2,7 +2,7 @@
 ### A companion app for Arkham Horror: The Card Game
 
 
-This app streamlines the most cumbersome aspect of *Arkham Horror: The Card Game*, the **chaos bag**. Players can simply select a scenario, difficulty, and one or more investigators, and they're ready to play. Chaos also logs all of your results for each scenario, viewable as text or histogram.
+This app streamlines the most cumbersome aspect of *Arkham Horror: The Card Game*, the **chaos bag**. Now players can simply select a scenario, difficulty, and one or more investigators, and they're ready to play. Chaos also logs all of your results for each scenario, viewable as text or histogram.
 
 ----
 
