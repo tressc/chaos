@@ -21,7 +21,7 @@ class Difficulty extends React.Component {
 
   render() {
     return (
-      <div className="difficulty col-sm-4">
+      <div className="difficulty row">
           <div
             className={ this.diffSelected("easy") }
             onClick={ this.changeDifficulty("easy") }

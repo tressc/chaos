@@ -1,7 +1,5 @@
 import React from 'react';
-import Bag from './bag/bag.jsx';
-import Log from './log/log.jsx';
-import Tokens from './tokens/tokens.jsx';
+import Tokens from './tokens/tokens_container.js';
 import Difficulty from './difficulty/difficulty_container.js';
 
 class Home extends React.Component {
@@ -17,12 +15,8 @@ class Home extends React.Component {
   render() {
     return (
       <div className="container">
-        <div className="row">
-          <Difficulty />
-          <Bag />
-          <Log />
-          <Tokens />
-        </div>
+        <Difficulty />
+        <Tokens />
       </div>
     );
   }

@@ -6,6 +6,9 @@ const preloadedState = {
     current_team: [0]
   },
   static: {
+    token_imgs: {
+      
+    },
     difficulties: {
       easy: {
         '+1': 2,
