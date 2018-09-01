@@ -118,7 +118,9 @@ const preloadedState = {
       2: {
         name: 'The Devourer Below',
         cycle: 'Night of the Zealot',
-        elder_thing: 1,
+        token_changes: {
+          elder_thing: 1
+        },
         rules: {
           easy_standard: {
             skull: '-X. X is the number of Monster enemies in play.',

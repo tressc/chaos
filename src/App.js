@@ -5,9 +5,9 @@ import Home from './components/home.jsx';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <Home />
-      </div>
+        <div className="App">
+          <Home />
+        </div>
     );
   }
 }

@@ -1,7 +1,8 @@
 import React from 'react';
-import Action from './action.jsx';
-import Logs from './logs.jsx';
-import Tokens from './tokens.jsx';
+import Bag from './bag/bag.jsx';
+import Log from './log/log.jsx';
+import Tokens from './tokens/tokens.jsx';
+import Difficulty from './difficulty/difficulty_container.js';
 
 class Home extends React.Component {
 
@@ -17,8 +18,9 @@ class Home extends React.Component {
     return (
       <div className="container">
         <div className="row">
-          <Action />
-          <Logs />
+          <Difficulty />
+          <Bag />
+          <Log />
           <Tokens />
         </div>
       </div>
