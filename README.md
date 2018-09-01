@@ -6,7 +6,7 @@ This app streamlines the most cumbersome aspect of *Arkham Horror: The Card Game
 
 ----
 
-### Features
+### Implementation
 
 | Feature           | Status  |
 | ----------------- | ------: |
